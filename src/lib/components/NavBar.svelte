@@ -10,7 +10,7 @@
     <div class="container mx-auto flex justify-between items-center">
         <a href="/home" class="text-[#DFC2F2] text-6xl font-bold">Anxietr</a>
 
-        <ul class="flex space-x-4 items-center">
+        <ul class="flex items-center">
             <li>
                 <a
                     href="/home"
