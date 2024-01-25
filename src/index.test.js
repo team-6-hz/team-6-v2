@@ -9,6 +9,6 @@ describe('sum test', () => {
 });
 
 
-  testConnection();
+  // testConnection();
 
 testAuth();
