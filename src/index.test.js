@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { testConnection } from './tests/connectionTest';
+// import { testConnection } from './tests/connectionTest';
 import { testAuth } from './tests/authTest';
 
 describe('sum test', () => {
