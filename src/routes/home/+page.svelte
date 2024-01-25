@@ -188,7 +188,7 @@
                 </p>
               </form>
             {:else}
-              <!-- Login Form -->
+              <!-- Login Forms -->
               <form
                 on:submit|preventDefault={signInWithEmail}
                 class="login w-[474px] h-[600px] bg-white rounded-[10px] shadow border border-slate-100 grid place-items-center"
